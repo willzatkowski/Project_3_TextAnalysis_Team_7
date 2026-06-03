@@ -1,0 +1,43 @@
+---
+title: "AI-Collaboration Log: Project 3"
+author: "Will Zatkowski and Conner Robertson"
+format: pdf
+---
+
+## Overview
+
+In this course, we will treat AI as a collaborator, not a substitute for thought. This document serves as a log for your collaboration with AI tools (e.g., ChatGPT, Gemini, Claude, etc.) during Project 3. Please be specific in your descriptions. **Failure to document AI usage or representing AI-generated work as entirely your own will be considered an honor code violation.**
+
+
+**Mention the AI tool(s) you used:**
+
+Will - ChatGPT
+
+## 1. Idea Generation
+
+**Describe how you used AI to brainstorm your topic, find potential datasets, or refine your research questions. What were some typical prompts that you used? How did the AI's output influence your project?**
+
+Will - I used ChatGPT to help generate ideas for the sentiment analysis. I used a prompt along the lines of "best visualizations for a sentiment analysis of each word in the gospels on a scale of -5 to 5". It gave me the idea to make a chronological progression of sentiment throughout each of the gospels. 
+
+
+
+## 2. Code Generation 
+
+**Describe how AI assisted in writing, debugging, or optimizing your code. How did you verify and correct AI-generated code? Did the AI provide any incorrect or "hallucinated" code? What did you think were some benefits of AI-assisted coding for this project? What were some challenges?**
+
+Will - I prompted ChatGPT for code on how to implement a chronological sentiment analysis. The code it generated wasn't specific to this project, so I didn't copy it verbatim, and I had to tailor it directly to the data that we had already cleaned. This was a huge benefit because I didn't have to research individual parts of code, and the AI also suggested a package I hadn't considered using. The challenge was tailoring the generated code to the specific use case. 
+
+
+
+## 3. Working with the Write-up 
+
+**Describe how AI assisted in your writing of the blog content. What did you think were some benefits of AI-assisted writing? What were some challenges?**
+
+
+
+
+
+## 4. Final Reflection
+
+**In separate paragraphs, reflect on (1) how the use of AI changed your learning process for this project, and (2) your overall experience with this project (challenges/achievements/skills you learned, etc.). **
+
